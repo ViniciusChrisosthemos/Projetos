@@ -7,6 +7,3 @@
 
 # Projetos em Andamento
 - Pong
-
-# Projetos Finalizados
-
