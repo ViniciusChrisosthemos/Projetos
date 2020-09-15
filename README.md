@@ -1,3 +1,7 @@
+# About
+
+This repository contains links for my projects to learn Game Development.
+
 # TODO List
 - [ ] 1942 (CLONE)
 - [ ] Asteroids (CLONE)
