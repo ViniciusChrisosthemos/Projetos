@@ -9,7 +9,7 @@ This repository contains links for my projects to learn Game Development.
 - [ ] [Snake](https://github.com/ViniciusChrisosthemos/Snake)
 
 # Working on
-- [Generic RPG](https://github.com/ViniciusChrisosthemos/GenericRPG)
+- Generic RPG
 
 # Finished
 - [X] [Tetris](https://github.com/ViniciusChrisosthemos/Tetris)
